@@ -6,10 +6,10 @@ infrastructure.
 Git instructions: https://wiki.php.net/vcs/gitfaq
 
 From: http://git.php.net/?p=playground.git;a=summary
-      URL       https://git.php.net/repository/playground.git
-      https://git.php.net/push/playground.git
-      git://git.php.net/playground.git
-      git@git.php.net:/playground.git
+      URL https://git.php.net/repository/playground.git
+          https://git.php.net/push/playground.git
+          git://git.php.net/playground.git
+          git@git.php.net:/playground.git
 
 Always read the README.
 
