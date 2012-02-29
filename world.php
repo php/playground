@@ -4,4 +4,4 @@
 http://php.net
 echo "no syntax error"
 
-?>
+
